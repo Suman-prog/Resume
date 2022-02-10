@@ -66,21 +66,15 @@ const CVTemplate =()=>{
               <div className="w3-container w3-card w3-white w3-margin-bottom">
                 <h2 className="w3-text-grey w3-padding-16"><i className="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal" />Work Experience</h2>
                 <div className="w3-container">
-                  <h5 className="w3-opacity"><b>Front End Developer / w3schools.com</b></h5>
-                  <h6 className="w3-text-teal"><i className="fa fa-calendar fa-fw w3-margin-right" />Jan 2015 - <span className="w3-tag w3-teal w3-round">Current</span></h6>
-                  <p>Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.</p>
+                  <h5 className="w3-opacity"><b>React Developer (Client operations: Automobile Industry)</b></h5>
+                  <h6 className="w3-text-teal"><i className="fa fa-calendar fa-fw w3-margin-right" />June 2020 - <span className="w3-tag w3-teal w3-round">Current</span></h6>
+                  <p><b>E-Commerce Space:</b> Provides an interface for buyers to book,resale cars including its respective accessories as per requirement on digital platform.  </p>
                   <hr />
                 </div>
                 <div className="w3-container">
-                  <h5 className="w3-opacity"><b>Web Developer / something.com</b></h5>
-                  <h6 className="w3-text-teal"><i className="fa fa-calendar fa-fw w3-margin-right" />Mar 2012 - Dec 2014</h6>
-                  <p>Consectetur adipisicing elit. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.</p>
-                  <hr />
-                </div>
-                <div className="w3-container">
-                  <h5 className="w3-opacity"><b>Graphic Designer / designsomething.com</b></h5>
-                  <h6 className="w3-text-teal"><i className="fa fa-calendar fa-fw w3-margin-right" />Jun 2010 - Mar 2012</h6>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p><br />
+                  <h5 className="w3-opacity"><b>React Developer (Client operations: Financial Services) </b></h5>
+                  <h6 className="w3-text-teal"><i className="fa fa-calendar fa-fw w3-margin-right" />Feb 2018 - Mar 2020</h6>
+                  <p><b>Pension Web Portal:</b> Provides an interface to Pension provider to avail Pension and other benefits via Digital Business Platform.</p><br />
                 </div>
               </div>
               <div className="w3-container w3-card w3-white">
